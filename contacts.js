@@ -2,7 +2,7 @@ const fs = require("fs").promises;
 
 const path = require("path");
 
-const contactPath = path.resolve("./inf/contacts.json");
+const contactPath = path.resolve("./db/contacts.json");
 
 
 async function listContacts() {
