@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-hw1-contacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaLauzhyna/nodejs-hw1-contacts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianaLauzhyna/nodejs-hw1-contacts/issues"
+  },
+  "homepage": "https://github.com/DianaLauzhyna/nodejs-hw1-contacts#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
